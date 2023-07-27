@@ -89,6 +89,7 @@
 }
 
 html {
+  writing-mode: vertical-rl;
   font-family: var(--main-font-family);
   font-size: var(--body-font-size);
   line-height: var(--body-line-height);
