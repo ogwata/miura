@@ -46,10 +46,6 @@
   font-family: var(--heading-font-family);
   line-height: 1;
 
-  marks: crop cross;
-  bleed: 3mm;
-  crop-offset: 9mm;
-
   @bottom-center {
     font-size: var(--page-footer-font-size);
     content: "- " counter(page) " -";
