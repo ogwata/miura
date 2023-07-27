@@ -1,0 +1,15 @@
+{
+  "name": "miura",
+  "description": "miura",
+  "version": "0.0.0",
+  "author": "ogwata@vivliostyle.org <ogwata@vivliostyle.org>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "CC-BY-NC-SA-3.0",
+  "private": true
+}
