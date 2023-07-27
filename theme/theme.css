@@ -56,11 +56,12 @@
   }
 }
 
-@page :nth(1) {
+/*  @page :nth(1) {
   @bottom-center {
     content: none;
   }
 }
+*/
 
 @page :blank {
   @bottom-center {
