@@ -1,9 +1,9 @@
 module.exports = {
-  title: '實録三浦党', // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
-  author: '岩間尹', // default to `author` in `package.json` or undefined.
-  language: 'ja', // default to undefined.
-  size: 'A5', // paper size.
-  theme: '@vivliostyle/theme-bunko@^0.5.1', // .css or local dir or npm package. default to undefined.
+  title: '實録三浦党',
+  author: '岩間尹',
+  language: 'ja',
+  size: 'A5', 
+  theme: 'theme/theme.css',
   entry: [
     'text/0.md',
     'text/1-1.md',
