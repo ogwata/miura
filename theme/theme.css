@@ -47,6 +47,7 @@
   line-height: 1;
 
   @bottom-center {
+    writing-mode: horizontal-tb;
     font-size: var(--page-footer-font-size);
     content: "- " counter(page) " -";
     margin-top: var(--page-footer-margin);
